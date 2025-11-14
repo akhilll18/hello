@@ -3,5 +3,5 @@ class demo
 {  public static void main (sting[] args){
 
 }
- System.out.println("hrllo this is java world")
+ System.out.println("hello this is java world")
 }
