@@ -1,0 +1,7 @@
+class demo
+
+{  public static void main (sting[] args){
+
+}
+ System.out.println("hrllo world")
+}
